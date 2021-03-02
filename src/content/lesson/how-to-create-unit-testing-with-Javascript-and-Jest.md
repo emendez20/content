@@ -48,7 +48,7 @@ Note: Unit tests don't care about the content of the `sum` function, it only car
 
 ## Benefits of using Unit Testing:
 
-+ **you can find and prevent bugs easily** If there is a problem in the future you'll be to identify the cause a lot faster than having to trough all the code. Also your end-user will be very happy not have a buggy product.
++ **you can find and prevent bugs easily** If there is a problem in the future you'll be able to identify the cause a lot faster than having to trough all the code. Also your end-user will be very happy not have a buggy product.
 
 + **Unit Testing saves time....and money** When writing Unit tests you may identify many possible bugs and fix them right away, instead of fixing them in different stages of the product.
 
