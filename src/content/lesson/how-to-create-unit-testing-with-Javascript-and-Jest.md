@@ -10,7 +10,7 @@ status: "published"
 
 Humans make mistakes, all the time. As you progress in your development career you will be more at peace with that.
 
-Senior developers understand their code will has bugs (no matter how smart you are) and the only way to ship quality is by writing additional code to test the original code, we call that "unit testing", in this article you will learn why and how to do it.
+Senior developers understand their code will have bugs (no matter how smart you are) and the only way to ship quality is by writing additional code to test the original code, we call that "unit testing", in this article you will learn why and how to do it.
 
 There are several ways to test your applications, but unit tests are the most powerful tool a developer has to ensure high quality code.
 
